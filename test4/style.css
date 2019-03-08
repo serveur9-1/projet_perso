@@ -1,0 +1,76 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	background-color: black;
+	margin: 0;
+	font-family: Arial, sans-serif;
+	height: 100%;
+}
+.image{
+	position: relative;
+	float: right;
+}
+.logo1{
+	width: 60px;
+	margin-bottom: 60px;
+	margin-top: 30px; 
+}
+.navbar{
+	width: 15%;
+	height: 700px;
+	background-color:white;
+	border-right:8px solid #2DD57B;
+	position: fixed;
+}
+.navbar a{
+	padding: 12px;
+	text-decoration: none;
+	color :black;
+	text-align: center;
+	line-height: 18px;
+	border-bottom: 1px solid black;
+	display: block;
+	font-weight: 1000;
+	font-size: 12px;
+	display: block;
+}
+.menu{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.icon{
+	padding: 7px;
+	color: black;
+}
+.tout{
+	margin-left: 260px;
+	width: 70%;
+	color: white;
+	position: absolute;
+	top: 150px
+}
+.gauche{
+	width: 30%;
+	float: left;
+}
+.droite{
+	width: 500px;
+	float: right;
+	margin-right: 100px;
+}
+.nan{
+	top: 0;
+	right: 0;
+	position: absolute;
+	text-decoration: none;
+	margin-right: 20px;
+	color: white;
+}
+.depli{
+	display: none;
+	margin:10px;
+}
+.image2{
+	display: none
+}
