@@ -1,0 +1,57 @@
+@media only screen and (max-width: 1200px){
+.a7{
+	display: none;
+}
+}
+@media only screen and (max-width: 1075px){
+.a6{
+	display: none;
+}	
+.show {
+    display: block;
+  }
+}
+@media only screen and (max-width: 1000px){
+	.a5{
+	display: none;
+}
+.show {
+    display: block;
+  }
+}
+@media only screen and (max-width: 900px){
+	.a4{
+	display: none;
+}
+.show {
+    display: block;
+  }
+}
+@media only screen and (max-width: 800px){
+	.a3{
+	display: none;
+}
+.show {
+    display: block;
+  }
+}
+@media only screen and (max-width: 600px){
+	.a2{
+	display: none;
+}
+.show {
+    display: block;
+  }
+}
+@media only screen and (max-width: 500px){
+	.a1{
+	display: none;
+}
+.search{
+	display: none;
+}
+ #btn{
+        display: block;
+        color: #ffffff;
+    }
+}
